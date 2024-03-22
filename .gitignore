@@ -1,0 +1,23 @@
+# Ignore build artefacts
+build
+
+# Ignore temporary files created by Google Test Framework
+Testing
+
+# Ignore .vscode config files
+.vscode
+
+# Ignore binaries
+*.out
+*.exe
+main
+app
+
+# Ignore compile_commands.json file
+compile_commands.json
+
+# Ignore CMake cache
+.cache
+
+# Ignore third-parties
+external
