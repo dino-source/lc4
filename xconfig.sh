@@ -2,7 +2,7 @@
 # directory in your .bashrc (or .zshrc if you use zsh) file
 
 # Environment variables C_COMPILER and CXX_COMPILER have to be 
-# defined in your .bashrc (or .zshrc if you're using zsh) file.
+# defined in your .bashrc (or .zshrc if you're using zsh) file as well.
 # Usually path to compiler looks like "/usr/bin/gcc" or "/usr/bin/clang".
 # However, it might differ if you've installed it in other directory.
 
